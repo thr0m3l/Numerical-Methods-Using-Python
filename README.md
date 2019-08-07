@@ -4,3 +4,5 @@ This repository contains code from Numerical Methods course that I am attending 
   2. LU Decomposition and Simplex optimization
   3. Curve fitting using polynomial regression
   4. Numerical integration using trapezoidal, simpson's 1/3 and 3/8 rule
+
+Please forgive my lack of python knowledge! :)
